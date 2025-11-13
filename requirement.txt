@@ -1,0 +1,8 @@
+streamlit>=1.27.0
+crewAI>=0.28.0
+langchain>=0.0.267
+langchain-openai>=0.0.2
+newspaper3k>=0.2.8
+duckduckgo-search>=3.9.3
+litellm>=1.0.0
+openai>=1.0.0
